@@ -69,7 +69,7 @@ void drawLandingPage() {
   
   textFont(font4, 26);  
   text("How to Win:", width / 2, height / 5 + 90);
-  text("- WASD moves the Mouse, and Arrow Keys control the Cat.", width / 2, height / 5 + 120);
+  text("- WASD moves the Cow, and Arrow Keys control the Cat.", width / 2, height / 5 + 120);
   text("- Dodge the Fighter Cat and Man, or lose speed!", width / 2, height / 5 + 150);
   text("- Collisions with the Fighter Cat and Man nudge you towards the center.", width / 2, height / 5 + 180);
   text("- Grab the peaches to speed up, but watch out for poisons!", width / 2, height / 5 + 210);
@@ -489,15 +489,15 @@ void displayScores() {
   textFont(font3);
   
   textAlign(CENTER, CENTER);
-  text("Mouse Speed: " + MOVE_SPEED2, width * 0.3f, 20);
-  text("Mouse Score: " + mouseScore, width * 0.3f, 40);
+  text("Cow Speed: " + MOVE_SPEED2, width * 0.3f, 20);
+  text("Cow Score: " + mouseScore, width * 0.3f, 40);
   
   textAlign(CENTER, CENTER);
   text("Cat Speed: " + MOVE_SPEED, width * 0.55f, 20);
   text("Cat Score: " + catScore, width * 0.55f, 40);
   
   textAlign(RIGHT, CENTER);
-  text(catIsIt ? "Cat is It" : "Mouse is It", width * 0.75f, 20);
+  text(catIsIt ? "Cat is It" : "Cow is It", width * 0.75f, 20);
   text("Press spacebar to restart.", width * 0.75f, 40);
   
 }
