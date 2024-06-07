@@ -1,6 +1,6 @@
 # Meow Moo :D
 
-Grew up playing 2-player Flash games as a kid, so I decided to create this for fun! 
+Grew up playing 2-player Flash games as a kid, so I decided to create this! Built using Java and Processing IDE
 
 # Game Features:
 ~ 2 Player game <br>
