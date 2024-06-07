@@ -31,7 +31,7 @@ Step 2: Download the Game<br>
 click on the Code button and select Download ZIP, or clone the repository using Git:<br>
 
 bash<br>
-git clone [https://github.com/yourusername/yourrepository.git](https://github.com/iriszhang789/MeowMoo.git) <br>
+git clone (https://github.com/iriszhang789/MeowMoo.git) <br>
 Extract the Files: If you downloaded the ZIP file, extract it to a location of your choice.<br>
 
 Step 3: Open and Run the Game<br>
