@@ -1,5 +1,6 @@
 # Meow Moo :D
 
+6/22
 Grew up playing 2-player Flash games, so I decided to create this! Built using Java and Processing IDE
 
 # Game Features:
@@ -18,7 +19,7 @@ Grew up playing 2-player Flash games, so I decided to create this! Built using J
 ~ Colliding with the fighter cat and man nudges the player toward the center of the screen<br>
 ~ Hitting the wall restarts the round<br>
 
-Still working on:<br>
+Going to add:<br>
 ~ Adding AI smart characters (currently implementing A* algorithm)<br>
 ~ Enhancing UI by adding background and customized & animated pixel characters<br>
 ~ Adding a pause and sound toggle button on the dashboard <br>
