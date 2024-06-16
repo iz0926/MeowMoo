@@ -14,7 +14,7 @@ Grew up playing 2-player Flash games, so I decided to create this! Built using J
 ~ A dashboard displaying score, speed, the player that is 'it'<br>
 ~ Sound effects when you collect the gold coin and tag the other player<br>
 ~ Gain invisibility for a few seconds by collecting the gold coin! (Player won't be able to collect or collide with the obstacles, peaches, or poisons when they are invisible)<br>
-~ Use crates as shields from the fighter cat and man<br>
+~ Use crates as shields from the fighter cat and man (but not the opponent!)<br>
 ~ The fighter cat and man have varying velocities and starting positions for each round<br>
 ~ Colliding with the fighter cat and man nudges the player toward the center of the screen<br>
 ~ Hitting the wall restarts the round<br>
