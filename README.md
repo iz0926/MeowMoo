@@ -5,16 +5,17 @@ Grew up playing 2-player Flash games, so I decided to create this! Built using J
 # Game Features:
 ~ 2 Player game <br>
 ~ Interact dynamically with the environment, such as collecting objects, dodging obstacles, or interacting with various in-game elements<br>
-~ Every round, there is one player that is "it"<br>
-~ Eating the poisons lowers speed, eating the peaches gains speed<br>
+~ Every round, there is one player that is "it" (displayed on dashboard)<br>
+~ Eating the poisons lowers speed, eating the peaches gains speed for the respective player<br>
 ~ Peaches and poisons regenerate after a certain amount is eaten<br>
-~ Animated characters<br>
+~ Animated characters (character image frames reflect direction of movement, player's foot moves at a constant frame rate) <br>
 ~ A scoring system based on the number of successive rounds won<br>
 ~ A dashboard displaying score, speed, the player that is 'it'<br>
 ~ Sound effects when you collect the gold coin and tag the other player<br>
-~ Gain invisibility for a few seconds by collecting the gold coin! <br>
+~ Gain invisibility for a few seconds by collecting the gold coin! (Player won't be able to collect or collide with the obstacles, peaches, or poisons when they are invisible)<br>
 ~ Use crates as shields from the fighter cat and man<br>
-~ Colliding with the fighter cat and man nudge the player toward the center of the screen<br>
+~ The fighter cat and man have varying velocities and starting positions for each round<br>
+~ Colliding with the fighter cat and man nudges the player toward the center of the screen<br>
 ~ Hitting the wall restarts the round<br>
 
 Still working on:<br>
