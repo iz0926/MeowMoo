@@ -19,8 +19,8 @@ Grew up playing 2-player Flash games, so I decided to create this! Built using J
 ~ Colliding with the fighter cat and man nudges the player toward the center of the screen<br>
 ~ Hitting the wall restarts the round<br>
 
-Going to add:<br>
-~ Adding AI smart characters (currently implementing A* algorithm)<br>
+What I want to add: <br>
+~ Adding AI smart characters (by implementing A* algorithm where the graph cells are converted to nodes and they're marked as walkable as the players traverse the map)<br>
 ~ Enhancing UI by adding background and customized & animated pixel characters<br>
 ~ Adding a pause and sound toggle button on the dashboard <br>
 
