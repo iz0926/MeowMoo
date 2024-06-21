@@ -1,7 +1,7 @@
 # Meow Moo :D
 
 June 2022<br>
-Grew up playing 2-player Flash games, so I decided to create this! Built using Java and Processing IDE
+Grew up playing 2-player Flash games, so I decided to create this! Built using Java and Processing IDE <br>
 Demo Here: https://youtu.be/xZPoyh0fBHc
 
 # Game Features:
